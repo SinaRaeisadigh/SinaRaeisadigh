@@ -5,3 +5,6 @@ Hi, I'm Sina Raeisadigh, a passionate **machine learning enthusiast** specializi
 I have hands-on experience developing 3D Reconstruction techniques, deep learning solutions for medical imaging like lymphoma classification and bone age prediction, and real-time object detection tasks. My skillset includes **Python, C++, TensorFlow, PyTorch**, and other advanced machine learning frameworks.
 
 I'm always eager to collaborate on innovative projects involving **Machine Learning, Image Processing, and Medical Data Analysis**. Let’s build something impactful together!
+
+
+###My Linkedin Page: https://www.linkedin.com/in/sinaraeisadigh/
